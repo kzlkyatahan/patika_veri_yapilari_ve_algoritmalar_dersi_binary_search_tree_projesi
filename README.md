@@ -1,0 +1,2 @@
+# patika_veri_yapilari_ve_algoritmalar_dersi_binary_search_tree_projesi
+Patika Veri Yapıları ve Algoritmalar Dersi Binary Search Tree Projesi
